@@ -101,6 +101,15 @@
   b2_integration: ""
   last_verified: 2026-03-01
 
+
+- name: Pixnovia AI Video Generation API
+  url: https://pixnovia.com
+  docs_url: https://pixnovia.com/api/docs
+  description: Pay-per-second AI video generation API powered by MiniMax H3 model. 25% cheaper than MiniMax official API, $1 free credit, no subscription required. Supports image/audio reference inputs.
+  category: text-to-video-apis
+  b2_integration: ""
+  last_verified: 2026-11-19
+
 - name: Vidu (Shengshu Technology)
   url: https://www.shengshu.com/en/vidu
   description: Now on Vidu Q3, the first long-form AI video model with native audio-video generation in a single output. Ranked #2 globally on Artificial Analysis benchmarks.
